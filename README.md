@@ -151,6 +151,7 @@ These are universally useful and **completely free**:
 - **[News in Levels](https://www.newsinlevels.com/)** — Daily news in 3 difficulty levels.
 
 ### ✍️ Practice & Tools
+- **[Duolingo](https://www.duolingo.com/)** — Gamified daily practice for grammar, vocabulary, and listening. Perfect for building a daily habit.
 - **[Quizlet](https://quizlet.com/)** — Flashcards for vocabulary.
 - **[Anki](https://apps.ankiweb.net/)** — Powerful spaced-repetition tool.
 - **[Cambridge Dictionary](https://dictionary.cambridge.org/)** — Best free English dictionary.
