@@ -12,7 +12,31 @@
 
 This repository is a **free educational resource** for anyone learning English — whether you're preparing for the **IELTS** exam, building academic vocabulary, improving your writing, or simply starting your English journey from scratch.
 
-It is open to **everyone, regardless of language or background**. While part of the content is tailored for Arabic-speaking learners, the core materials (vocabulary, paragraphs, study tips) are universal and useful to any learner worldwide.
+It is open to **everyone, regardless of language or background**. The resources here are universal — pick what helps, leave what doesn't.
+
+---
+
+## 🇸🇦 للمتعلّمين العرب — اقرأ هذا أوّلاً
+
+<div dir="rtl">
+
+**أهلاً بك أخي العربي / أختي العربية** 👋
+
+إذا كنت تبحث عن دليل **باللغة العربية** لتعلّم الإنجليزية، فقد جهّزنا لك دليلاً شاملاً ومفصّلاً يحتوي على:
+
+- 🕌 **لماذا تتعلّم لغة أخرى؟** — من منظور ديني وثقافي وعملي
+- 📚 **أفضل القنوات العربية** على YouTube لتعلّم الإنجليزية (قواعد، استماع، قراءة، IELTS)
+- 📖 **مصادر مجانية** للقراءة والاستماع (Oxford Bookworms، ويكيبيديا، مسلسلات تعليمية)
+- 🗓️ **خطّة دراسية** متدرّجة مع جدول يومي مقترح
+- 💡 **نصائح عمليّة** خاصّة بالمتعلّم العربي
+
+### 👇 ابدأ من هنا:
+
+### 📖 [**الدليل الكامل لتعلّم الإنجليزية للعرب**](./for%20arab%20learners/arab_learners.md)
+
+> 💎 **ملاحظة:** الدليل العربي يحتوي على **مجلّد DIC** (قواميس وكلمات الـ AWL الأكاديمية) — موجود داخل [`for arab learners/DIC/`](./for%20arab%20learners/DIC/)
+
+</div>
 
 ---
 
@@ -21,22 +45,14 @@ It is open to **everyone, regardless of language or background**. While part of 
 ```
 IELTS_My_Journey_with_English/
 │
-├── 📘 DIC/                          → Dictionaries & vocabulary resources
-│   └── AWL full book/               → Academic Word List (full book)
-│       ├── RAR/                     → Multi-part RAR archive
-│       └── ZIP/                     → Multi-part ZIP archive
+├── ✍️  PARAGRAPHS/             → Sample writing & practice paragraphs
 │
-├── ✍️  PARAGRAPHS/                   → Sample writing & practice paragraphs
-│   ├── PARAGRAPHS/
-│   │   └── climate change.pdf       → Sample paragraph (PDF)
-│   └── school and university/
-│       └── MY-PARAGRAPHS.docx       → Personal paragraphs collection
+├── 🌐 for arab learners/       → Localized guide & resources (Arabic)
 │
-├── 🌐 for arab learners/             → Arabic-language learning guide
-│   └── arab_learners.md             → Curated guide for Arab learners
-│
-└── 📄 README.md                     → You are here
+└── 📄 README.md                → You are here
 ```
+
+> 🌐 **Looking for Arabic-language resources?** Everything tailored for Arab learners — including a curated guide, vocabulary materials, and recommended channels — lives in the **[`for arab learners/`](./for%20arab%20learners/arab_learners.md)** folder.
 
 ---
 
@@ -44,49 +60,10 @@ IELTS_My_Journey_with_English/
 
 | Audience | What You'll Find |
 |----------|------------------|
-| 🎓 **IELTS candidates** | Vocabulary lists, sample paragraphs, study strategies |
-| 📚 **Academic English learners** | Academic Word List (AWL) — the most essential 570 word families used in academic texts |
-| ✍️ **Writing improvers** | Real paragraph examples on common topics (climate change, school & university, etc.) |
-| 🌱 **Beginners** | A complete guide (Arabic) with channels & resources for every level |
+| 🎓 **IELTS candidates** | Sample paragraphs, study strategies, recommended resources |
+| ✍️ **Writing improvers** | Real paragraph examples on common topics |
+| 🌱 **Beginners** | Universal tips, free channels, structured study plan |
 | 🌍 **Anyone curious about English** | Free, open materials — take what helps, leave what doesn't |
-
----
-
-## 📚 What's Inside
-
-### 1️⃣ The Academic Word List (AWL) — `DIC/AWL full book/`
-
-The **Academic Word List** by Averil Coxhead is one of the most important vocabulary resources for anyone aiming at academic English (IELTS Academic, TOEFL, university study). It contains **570 word families** that appear most frequently across academic texts.
-
-**Available formats:**
-- 🗜️ Multi-part RAR archive
-- 🗜️ Multi-part ZIP archive
-
-> 💡 **How to use:** Extract the archive and study the word families in groups. Use each word in your own sentences to make it stick.
-
----
-
-### 2️⃣ Sample Paragraphs — `PARAGRAPHS/`
-
-Real writing samples on common IELTS and academic topics.
-
-- **`climate change.pdf`** — A model paragraph on climate change.
-- **`MY-PARAGRAPHS.docx`** — A personal collection of paragraphs on school and university topics.
-
-> 💡 **How to use:** Read first, then try to rewrite the same idea in your own words. Compare and learn.
-
----
-
-### 3️⃣ Arabic Learner's Guide — `for arab learners/`
-
-A comprehensive guide written in **Arabic** for Arab learners, including:
-
-- Why learning English matters (with religious and cultural perspective)
-- Best Arabic-language YouTube channels for grammar, listening, reading, and IELTS prep
-- A suggested study plan and daily schedule
-- General tips for Arab learners
-
-📄 **Read it here:** [`for arab learners/arab_learners.md`](./for%20arab%20learners/arab_learners.md)
 
 ---
 
@@ -97,18 +74,18 @@ A comprehensive guide written in **Arabic** for Arab learners, including:
    git clone https://github.com/<your-username>/IELTS_My_Journey_with_English.git
    ```
 
-2. **Explore the folders** — start with the section that matches your goal:
-   - 🆕 New to English? → Start with the [Arabic guide](./for%20arab%20learners/arab_learners.md) (if you read Arabic) or the recommended channels below.
-   - 📝 Preparing for IELTS? → Open the `PARAGRAPHS/` folder and study the `DIC/AWL full book/`.
-   - 📖 Building vocabulary? → Extract the AWL archive and start with the first sublist.
+2. **Pick your starting point:**
+   - 📝 Preparing for IELTS? → Open the `PARAGRAPHS/` folder and review the recommended resources below.
+   - 🌍 Arabic speaker? → Head to the [Arabic guide](./for%20arab%20learners/arab_learners.md).
+   - 🌱 Just starting out? → Check the **Recommended Free Resources** section below.
 
 3. **Practice daily** — even 30 minutes a day beats 5 hours once a week.
 
 ---
 
-## 🌐 Recommended Free Resources (All Languages Welcome)
+## 🌐 Recommended Free Resources
 
-These are universally useful and **free**:
+These are universally useful and **completely free**:
 
 ### 📺 YouTube Channels
 - **[BBC Learning English](https://www.youtube.com/@bbclearningenglish)** — World-class lessons for all levels.
@@ -141,7 +118,7 @@ These are universally useful and **free**:
 | 🟢 **Foundation** | 1 – 2 months | Basic grammar, 1000 most common words |
 | 🟡 **Skill Building** | 3 – 6 months | All four skills (Listening, Reading, Writing, Speaking) |
 | 🔵 **Deep Practice** | 6 – 12 months | Reading real content, watching shows, writing daily |
-| 🔴 **Exam Prep** | 1 – 3 months | Official IELTS materials, mock tests, AWL mastery |
+| 🔴 **Exam Prep** | 1 – 3 months | Official IELTS materials, mock tests, vocabulary mastery |
 
 ---
 
@@ -157,16 +134,27 @@ These are universally useful and **free**:
 
 ---
 
+## 🌍 Localized Guides
+
+Have a guide in your native language? We'd love to add it!
+
+| Language | Guide |
+|----------|-------|
+| 🇸🇦 العربية (Arabic) | [`for arab learners/arab_learners.md`](./for%20arab%20learners/arab_learners.md) |
+| 🌐 *Your language?* | [Open a PR](#-contributing) and contribute! |
+
+---
+
 ## 🤝 Contributing
 
-Contributions are welcome from everyone! If you'd like to:
+Contributions are welcome from **everyone**! If you'd like to:
 
-- 📝 Add learning resources in **your own language**
+- 📝 Add a learning guide in **your own language**
 - 📚 Share sample paragraphs or study notes
 - 🐛 Fix typos or broken links
-- 💡 Suggest new sections
+- 💡 Suggest new sections or resources
 
-Please feel free to open an **Issue** or submit a **Pull Request**. All languages, levels, and contributions are welcome.
+Please open an **Issue** or submit a **Pull Request**. All languages, levels, and contributions are welcome.
 
 ### How to Contribute
 1. Fork this repository
@@ -181,7 +169,7 @@ Please feel free to open an **Issue** or submit a **Pull Request**. All language
 
 This repository is shared under the **MIT License** — free to use, modify, and share.
 
-The original educational materials (Oxford Bookworms, Academic Word List, etc.) belong to their respective copyright holders and are referenced here for educational purposes only.
+Educational materials referenced here (Oxford Bookworms, IELTS, etc.) belong to their respective copyright holders and are linked for educational purposes only.
 
 ---
 
@@ -195,7 +183,7 @@ This repository started as a **personal journey** with English and the IELTS exa
 
 ## 📬 Contact & Feedback
 
-If this repository helped you, consider giving it a ⭐ star — and feel free to share it with anyone who might benefit.
+If this repository helped you, please consider giving it a ⭐ star — and share it with anyone who might benefit.
 
 For questions, suggestions, or collaboration, open an **Issue** or reach out via the repository.
 
