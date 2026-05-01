@@ -141,7 +141,7 @@ These are universally useful and **completely free**:
 
 ### 📺 YouTube Channels
 - **[BBC Learning English](https://www.youtube.com/@bbclearningenglish)** — World-class lessons for all levels.
-- **[English Addict with Mr. Steve](https://www.youtube.com/@EnglishAddictwithMrSteve)** — Live English lessons from the UK.
+- **[English Addict with Mr. Steve](https://www.youtube.com/@EnglishAddict)** — Live English lessons from the UK.
 - **[E2 IELTS](https://www.youtube.com/@E2IELTS)** — One of the best free IELTS prep channels.
 - **[Rachel's English](https://www.youtube.com/@rachelsenglish)** — American pronunciation specialist.
 
