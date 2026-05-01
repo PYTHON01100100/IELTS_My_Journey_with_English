@@ -34,7 +34,6 @@ It is open to **everyone, regardless of language or background**. The resources 
 
 ### 📖 [**الدليل الكامل لتعلّم الإنجليزية للعرب**](./for%20arab%20learners/arab_learners.md)
 
-> 💎 **ملاحظة:** الدليل العربي يحتوي على **مجلّد DIC** (قواميس وكلمات الـ AWL الأكاديمية) — موجود داخل [`for arab learners/DIC/`](./for%20arab%20learners/DIC/)
 
 </div>
 
