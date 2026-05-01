@@ -16,6 +16,58 @@ It is open to **everyone, regardless of language or background**. The resources 
 
 ---
 
+## 🎯 My Personal Goals — Why I'm Learning English
+
+This repository started as **my own journey**, and I share it openly because I believe many others share the same dreams. Here's what I'm working toward — maybe one of these resonates with you too:
+
+### 🌍 1. Building a Career Beyond the Arab World
+I want to be **ready to work internationally** — especially in:
+- 🇺🇸 **United States** — Silicon Valley, NYC tech scene, remote opportunities
+- 🇬🇧 **United Kingdom** — London's vibrant tech and finance hubs
+- 🇨🇦 **Canada** — Toronto, Vancouver, and a welcoming environment for skilled professionals
+- 🇦🇺 **Australia** — Sydney, Melbourne, and the growing Asia-Pacific opportunities
+
+> 💼 English isn't just a language — it's the **passport to global employment**. Every interview, every contract, every team meeting in these markets runs in English.
+
+### 🎓 2. Studying at World-Class Universities
+I'm preparing myself to apply to and study at the world's leading institutions:
+- 🏛️ **Stanford University** — Innovation and entrepreneurship powerhouse
+- 🔬 **MIT** (Massachusetts Institute of Technology) — Engineering & technology excellence
+- 🎓 **Harvard University** — Centuries of academic prestige
+- 🌉 **UC Berkeley** — Computer science and research leadership
+- 📚 *And other top-tier universities like Oxford, Cambridge, ETH Zurich, Carnegie Mellon...*
+
+> 🎯 IELTS / TOEFL is the gateway. A strong **Band 7+** opens doors that are otherwise closed.
+
+### 🤝 3. Making Friends Across Cultures
+One of my biggest motivations is **connecting with people worldwide** who share my passions:
+
+| Interest | Why It Matters |
+|----------|----------------|
+| 💻 **Technology & Programming** | Connect with developers globally on GitHub, Discord, conferences |
+| ☁️ **Cloud Computing** | AWS, Azure, GCP communities — all English-speaking |
+| 🤖 **Artificial Intelligence** | The cutting-edge AI conversation happens in English |
+| 🎮 **Video Games** | Online gaming communities are global — English is the bridge |
+| 🎌 **Anime & Manga** | International anime fandom communities and discussions |
+| 🎬 **Movies & TV Shows** | Discuss your favorite series with fans worldwide |
+| ✈️ **Travelling** | Connect with fellow travelers and locals everywhere |
+| 🏛️ **Politics & World Affairs** | Engage with global perspectives, not just one side |
+| 🌐 **Cultures & Languages** | Exchange culture, traditions, and stories across borders |
+
+> 🌟 **Real friendships across continents** — that's what fluent English makes possible. No translator. No barrier. Just genuine human connection.
+
+---
+
+### 💭 If You Share Any of These Goals...
+
+This repository is for you. Use it, build on it, and let's grow together. The journey is long, but every word, every paragraph, every sentence brings us closer to a world without language barriers.
+
+> *"The world is a book, and those who do not travel read only one page."* — **Saint Augustine**
+>
+> But to read **all the pages**, you need the language they're written in. 📖
+
+---
+
 ## 🇸🇦 للمتعلّمين العرب — اقرأ هذا أوّلاً
 
 <div dir="rtl">
@@ -34,6 +86,7 @@ It is open to **everyone, regardless of language or background**. The resources 
 
 ### 📖 [**الدليل الكامل لتعلّم الإنجليزية للعرب**](./for%20arab%20learners/arab_learners.md)
 
+> 💎 **ملاحظة:** الدليل العربي يحتوي على **مجلّد DIC** (قواميس وكلمات الـ AWL الأكاديمية) — موجود داخل [`for arab learners/DIC/`](./for%20arab%20learners/DIC/)
 
 </div>
 
